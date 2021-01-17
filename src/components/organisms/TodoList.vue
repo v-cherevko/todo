@@ -1,6 +1,6 @@
 <template>
   <div :class="$style.container">
-    <h1 :class="$style.title">Задачи</h1>
+    <h1 :class="$style.title">Список задач</h1>
     <div :class="$style.wrapper">
       <Header />
       <div :class="$style.todoList">
